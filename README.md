@@ -3,7 +3,7 @@
 The Temple Trip Blog Page is a web page template designed for a travel blog that focuses on visiting temples and other religious sites. It features a clean and modern design that highlights photos and provides ample space for text.
 
 Demo
-You can view a live demo of the Temple Trip Blog Page at https://example.com.
+You can view a live demo of the Temple Trip Blog Page at https://suraj-2808.github.io/templetrip/
 
 **Technologies Used**
 The Temple Trip Blog Page is built using the following technologies:
